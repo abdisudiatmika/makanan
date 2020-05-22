@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Makanan</string>
+
+    <string-array name="data_menu">
+        <item>Sate</item>
+        <item>Soto</item>
+        <item>Nasi Goreng</item>
+        <item>Bakso</item>
+        <item>Mie Goreng</item>
+    </string-array>
+    <string-array name="data_deskripsi">
+        <item>Sate Harganya adalah Rp.20.000 terbuat dari daging asli yang sudah di  masak sebelumnya kemudian disajikan dengan cara ditusuk</item>
+        <item>Soto dengan harga Rp. 15.000 anda bisa mendapatkan irisan ayam dengan kuah nikmat</item>
+        <item>Rp 22.000 Nasi Yang di goreng dengan tambahan telur mata sapi dibagian atas serta ada tambahan sayur</item>
+        <item>Bulat yang berkuah dengan harga Rp. 30.000</item>
+        <item>Mie yang penyajiannya dilakukan secara di rebus namun diberi nama mie goreng harganya Rp. 10/000</item>
+
+    </string-array>
+
+    <array name="data_gambar">
+        <item>@drawable/sate</item>
+        <item>@drawable/soto</item>
+        <item>@drawable/nasgor</item>
+        <item>@drawable/bakso</item>
+        <item>@drawable/miegoreng</item>
+    </array>
+</resources>
